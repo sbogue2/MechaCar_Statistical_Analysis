@@ -39,4 +39,4 @@
 
 ## Study Design: MechaCar vs Competition
 
-*
+* A good statistical study design to compare the MechaCar vs Competition would be to focus on key metrics such as, city and highway fuel economy, performance, and safety ratings of competitor vehicles to ensure that the vehicle the MechaCar is priced appropriately before hitting market. Data from similar competitor vehicle offerings should be pooled together for the past 5 years. This data can be evaluated to find the most appropriate price point based on the average of all of these metrics. This can be done by using a multiple regression model to regress price against the other model metrics. The null hypothessis of this study would be that there is no difference between between competitor car prices and performance. The alternative hypothesis is that there is a significant diference between competitor car prices and at least one performance metric. 
